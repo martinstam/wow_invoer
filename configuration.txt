@@ -1,0 +1,4 @@
+comm mode          : nport_tcp_mode
+COM port           : 
+TCP host name      : PC150036
+TCP port           : 8002
